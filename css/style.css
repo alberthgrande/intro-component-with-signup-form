@@ -184,6 +184,10 @@ button {
     margin: 5rem 0;
   }
 
+  main {
+    margin-top: 15rem;
+  }
+
   /* main container */
   .container {
     flex-direction: column;
